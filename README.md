@@ -1,4 +1,4 @@
-**Power Query – Data Cleaning - GUIDE QUESTIONS**
+# Power Query – Data Cleaning - GUIDE QUESTIONS
 
 __1. Why is removing duplicates important in data analysis?__
 
