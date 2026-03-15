@@ -17,7 +17,7 @@ __4. What naming conventions improve data readability?__
 Using clear and consistent names like lowercase with underscores improves readability.
 
 
-**Merge and Append Queries - GUIDE QUESTIONS**
+# Merge and Append Queries - GUIDE QUESTIONS
 
 __1. What is the difference between Merge and Append?__
 
